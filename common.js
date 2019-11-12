@@ -1,0 +1,1 @@
+export const test = '我是测试啊';
